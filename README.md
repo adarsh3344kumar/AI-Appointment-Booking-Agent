@@ -1,2 +1,11 @@
-# AI-Appointment-Booking-Agent
-**AI Appointment Booking Agent** is an AI-powered virtual medical receptionist that helps patients book, reschedule, and cancel appointments through natural conversations. It verifies real-time doctor availability, stores appointments securely, syncs with Google Calendar, and sends confirmation emails, providing a fast, accurate, and seamless book
+
+  # AI Appointment Booking Agent
+
+  This is a code bundle for AI Appointment Booking Agent. The original project is available at https://www.figma.com/design/nYcGZu53mhH9iuGj4WKYLY/AI-Appointment-Booking-Agent.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
